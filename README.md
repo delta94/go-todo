@@ -1,6 +1,11 @@
 # go-todo
-Build a Todo App in Golang，MongoDB  and React
+
+## A ToDo  App
+
 
 Server — Go
+
 Database — MongoDB
+
 Frontend — React
+
